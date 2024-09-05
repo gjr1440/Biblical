@@ -17,7 +17,7 @@ let dados = [
         autor : "Paulo",
         dataProvavel : "57 d.C.",
         curiosidades : {
-            primeira : "- A Epístola aos Romanos foi fundamental na Reforma Protestante. A ideia de Paulo sobre a justificação pela fé inspirou Martinho Lutero e outros reformadores a desafiar práticas da Igreja Católica, como a venda de indulgências. Romanos 1:17, que afirma que “o justo viverá pela fé”, foi especialmente crucial para promover a visão de que a salvação é um presente de Deus acessível a todos pela fé;",
+            primeira : "- A Epístola aos Romanos foi fundamental na Reforma Protestante. A ideia de Paulo sobre a justificação pela fé inspirou Martinho Lutero e outros reformadores a desafiar práticas da Igreja Católica, como a venda de indulgências. Romanos 1:17, que afirma que “o justo viverá pela fé”, foi especialmente crucial para promover a visão de que a salvação é um presente de Deus acessível a todos pela fé (lembrando que a fé sem obras é morta - Tg 2:17);",
             segunda : "- A carta aos Romanos se destaca pela sua estrutura lógica e clara. Paulo organiza seus argumentos de maneira sistemática, começando com a teologia da justificação e seguindo para a ética cristã e instruções práticas. Essa organização torna Romanos um exemplo clássico de escrita teológica e pastoral bem estruturada."
         }
     },
