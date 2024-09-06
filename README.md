@@ -2,6 +2,8 @@
 
 https://biblical-nu.vercel.app
 
+![image](https://github.com/user-attachments/assets/8a427842-817d-4995-a7e9-b95aa15d1856)
+
 **O que faz essa aplicação?**
 
 Imagina ter uma biblioteca bíblica pessoal, mas digital e super fácil de usar! Com essa aplicação, você pode pesquisar por livros bíblicos e encontrar informações detalhadas sobre eles, como autor, data provável e curiosidades. Tudo isso com uma interface simples e intuitiva.
